@@ -1,5 +1,5 @@
 {
-  "name": "306-boltenv-decorator",
+  "name": "306-boltconfig",
   "version": "1.0.0",
   "description": "Inject typescript environment variables with default value and force readonly mode on property to avoid leaking information in logs",
   "main": "dist/index.js",
